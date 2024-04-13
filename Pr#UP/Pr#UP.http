@@ -1,0 +1,6 @@
+@Pr_UP_HostAddress = http://localhost:5045
+
+GET {{Pr_UP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
